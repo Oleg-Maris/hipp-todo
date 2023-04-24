@@ -52,9 +52,9 @@
         </v-row>
 
         <v-row>
-          <v-app-bar-title class="text-h4 ml-4">
+          <v-toolbar-title class="text-h4 ml-4">
             {{ $store.state.appTitle }}
-          </v-app-bar-title>
+          </v-toolbar-title>
         </v-row>
 
         <v-row>
